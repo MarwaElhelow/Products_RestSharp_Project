@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "+CY02stGG3YmT7Se3qsVhQX3M6XKHykN/vMrSCAO7PHLCy0e7Beg3rEtStZT3d74kE2RsrLa5FcCF4TD2Pejqg==",
+  "success": true,
+  "projectFilePath": "D:\\Automation Learning\\Self Assignments\\RestSharp_Products_Demo\\RestSharp_Products_Demo\\RestSharp_Products_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marwa.Elhelow\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Marwa.Elhelow\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Marwa.Elhelow\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Marwa.Elhelow\\.nuget\\packages\\nunit.consolerunner\\3.16.3\\nunit.consolerunner.3.16.3.nupkg.sha512",
+    "C:\\Users\\Marwa.Elhelow\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Marwa.Elhelow\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Marwa.Elhelow\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marwa.Elhelow\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
